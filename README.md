@@ -1,3 +1,9 @@
+# Note from Kenji
+
+The python 3 version of this ought to be working correctly in the same capacity as the python2 version. This program is good for cold storage of raw fastq files, but it adds quite a bit of time for both compression and decompression.
+
+DSRC-2 is much more practical for briefly compressing a file.
+
 # uQ - binary FASTQ
   uQ is a lossless FASTQ binary encoder.
   
